@@ -1,0 +1,1 @@
+Dataset source: https://gis.data.cnra.ca.gov/datasets/CALFIRE-Forestry::cal-fire-damage-inspection-dins-data/about
